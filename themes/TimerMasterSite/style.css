@@ -1,0 +1,196 @@
+/* 
+
+    Template Name: TimerMasterSite
+    Version: v1.0
+    Author uri: https://sakibportfolio.com
+    Author: Sakib
+    Description: This is an multiple pages template which name is timer master. 
+
+*/
+.top30px {
+    margin-top: 30px;
+}
+/* li a .caret {
+    display: none;
+} */
+/* .dropdown > a> .caret {
+    display: inline-block;
+} */
+
+
+.img-wrapper img {
+    width: auto;
+    height: 359px;
+}
+.featured_image img.wp-post-image {
+    width: 100%;
+    height: auto;
+    margin-bottom: 5px;
+}
+/* single posts styling */
+figure .img-wrapper {
+    text-align: center;
+}
+figure figcaption {
+    text-align: center;
+}
+.single_img img {
+    width: 900px !important;
+    margin: 0 auto;
+    height: 400px auto;
+    text-align: center;
+}
+/*  */
+
+/* social styling */
+.dpsp-has-spacing .dpsp-networks-btns-wrapper li {
+    background: #02bdd5;
+    margin-right: 5px;
+    border: #10c9c3 !important;
+}
+.dpsp-icon-total-share svg, .dpsp-network-icon .dpsp-network-icon-inner svg {
+    width: auto;
+    fill: #fff !important;
+    border: #10c9c3 !important;
+}
+.dpsp-networks-btns-wrapper .dpsp-network-btn .dpsp-network-icon {
+    border: #000 !important;
+}
+/*  */
+
+/* comment form */
+.wpcd-template-3 .comment-respond h3.comment-reply-title {
+    text-align: left !important;
+}
+.wpcd-value-div input {
+    height: 40px;
+    border: 1px solid#ddd !important;
+}
+.wpcd-value-div input:focus {
+    outline: none !important;
+    border-color: #10c9c3 !important;
+    box-shadow: none;
+} 
+.wpcd-value-div input#author {
+    width: 540px;
+    margin-right: 18px;
+}
+.wpcd-value-div input#email {
+    width: 540px;
+}
+.wpcd-title-value-div.wpcd-url {
+    display: none;
+}
+.wpcd-title-value-div .wpcd-title-div label {
+    margin-top: 10px !important;
+}
+.wpcd-title-value-div.wpcd-text {
+    float: left;
+    margin-bottom: 10px;
+}
+.wpcd-template-3 textarea {
+    -webkit-border-radius: 0px;
+    border-radius: 0px;
+    width: 100%;
+    border: 1px solid #ddd;
+}
+.wpcd-template-3 textarea:focus {
+    outline: none !important;
+    border-color: #10c9c3 !important;
+    box-shadow: none;
+}
+.wpcd-title-value-div .wpcd-title-div {
+    margin-top: 0 !important; 
+    margin-bottom: 10px;
+}
+.wpcd-form-submit {
+    margin: 10px 0 10px 0 !important;
+}
+.wpcd-form-submit .wpcd-comment-form-submit {
+    background: #02bdd5 !important;
+    color: #fff !important;
+}
+input#wpcd-submit {
+    font-size: 14px !important;
+    padding: 0px 12px;
+    display: inline-block;
+    line-height: 10px;
+    max-height: 32px;
+    text-transform: lowercase;
+}
+input#wpcd-submit:hover {
+    border: 1px solid #10c9c3 !important;
+}
+/*  */
+/* Reply Comment */
+.wpcd-comment-template-3 .wpcd-show-replies-trigger, .wpcd-comment-template-3 .wpcd-hide-replies-trigger, .wpcd-comment-template-3 .wpcd-save-edited-comment, .wpcd-comment-template-3 .wpcd-bottom .wpcd-reply-button, .wpcd-comment-template-3 .wpcd-bottom .wpcd-edit-comments-wrap, .wpcd-comment-template-3 .wpcd-bottom .wpcd-flag-comments-wrap {
+    background: none !important;
+    border: #fff !important;
+    padding: 0px 10px 4px 10px !important;
+    color: #02bdd5;
+    background-color: none !important;
+    float: left !important;
+    margin-left: 50px !important;
+    margin-bottom: 10px !important;
+}
+.wpcd-reply-button a {
+    color: #02bdd5 !important;
+    background: none !important;
+    text-transform: capitalize !important;
+    line-height: 28px;
+}
+
+.dpsp-networks-btns-wrapper .dpsp-network-btn.dpsp-facebook:hover, .dpsp-networks-btns-wrapper .dpsp-network-btn.dpsp-facebook:hover .dpsp-network-icon {
+    border-color: #334d87;
+    background: #02bdd5;
+    color: #334d87;
+    border-color: 1px solid #02bdd5 !important;
+    outline: none;
+    box-shadow: none;
+    font-size: 14px !important;
+}
+.dpsp-button-style-7 .dpsp-networks-btns-wrapper .dpsp-network-btn:focus .dpsp-network-icon svg, .dpsp-button-style-7 .dpsp-networks-btns-wrapper .dpsp-network-btn:hover .dpsp-network-icon svg {
+    height: 15px;
+}
+.dpsp-icon-total-share svg, .dpsp-network-icon .dpsp-network-icon-inner svg {
+    top: 0.1em;
+    max-height: 18px;
+}
+.dpsp-networks-btns-wrapper .dpsp-network-btn.dpsp-twitter:hover, .dpsp-networks-btns-wrapper .dpsp-network-btn.dpsp-twitter:hover .dpsp-network-icon {
+    border-color: #0099d7;
+    background: #02bdd5;
+    color: #0099d7;
+    outline: none !important;
+    box-shadow: none;
+}
+.dpsp-networks-btns-wrapper .dpsp-network-btn.dpsp-linkedin:hover, .dpsp-networks-btns-wrapper .dpsp-network-btn.dpsp-linkedin:hover .dpsp-network-icon {
+    border-color: #0099d7;
+    background: #02bdd5;
+    color: #0099d7;
+    outline: none !important;
+    box-shadow: none;
+}
+.dpsp-button-style-7 .dpsp-networks-btns-wrapper .dpsp-network-btn:focus .dpsp-network-icon svg, .dpsp-button-style-7 .dpsp-networks-btns-wrapper .dpsp-network-btn:hover .dpsp-network-icon svg {
+    fill: #fff !important;
+    font-size: 14px !important;
+}
+/* team sectio */
+.team-member {
+    float: left !important;
+}
+
+/* owl-carousel clients */
+/* .owl-carousel {
+    display: block !important;
+    float: left !important;
+} */
+li#pages-2 {
+    display: inline-block;
+}
+.widget {
+    list-style-type: none;
+}
+h4.bef_foot_oneTitle {
+    color: red;
+}
+
